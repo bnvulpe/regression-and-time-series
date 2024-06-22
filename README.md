@@ -9,4 +9,4 @@ We will address two different problems, each associated with a specific dataset.
 The organization of the work will revolve around these datasets, with the first two sections dedicated to the regression problem and the last one focused on the time series.
 
  ---------------------------------------
-All code, CSV files, and any other necessary files for executing the code are available in the 'code' folder of this repository. The code has been modified for ease of execution in the Google Colab environment. A comprehensive report of the work undertaken is available in both English and Spanish.
+All code, CSV files, and any other necessary files for executing the code are available in the 'code' folder of this repository. The code has been modified for ease of execution in the Google Colab environment. A comprehensive report of the work undertaken is available in Spanish (considered to be translated to English).
